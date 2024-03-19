@@ -6,7 +6,9 @@ I am from Italy, currently living in Malaga, Spain and I write code to solve pro
 <h3>About me</h3>
 
 Making the leap from bar and restaurant managing to coding was a wild ride, but now I'm loving every minute as a Full Stack Developer in sunny Málaga, Spain!
+
 With over 2 years of experience, I'm fluent in Front-End sorcery with React.js and Typescript, and I've got some nifty Backend skills too.
+
 I thrive on problem-solving and creating smiles for users. Collaboration is where the magic happens, and I'm always eager to dive into the latest tech trends. Let's join forces and craft some exceptional software together! 🚀
 
 <br/>
@@ -35,10 +37,8 @@ I thrive on problem-solving and creating smiles for users. Collaboration is wher
 
  <p align="center">
     <a href="https://www.linkedin.com/in/francesco-fava/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-   <a href="https://www.portfolio-francesco-fava.vercel.app" alt="Linkedin"></a>&nbsp;
-     <a href="https://github.com/France167/React"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
-
-  </p>
+    <a href="https://www.portfolio-francesco-fava.vercel.app" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>&nbsp;
+</p>
 
 <!--
 **France167/France167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
