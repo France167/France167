@@ -36,8 +36,8 @@ I thrive on problem-solving and creating smiles for users. Collaboration is wher
   <b>Let's connect and chat!</b>
 
  <p align="center">
-    <a href="https://www.linkedin.com/in/francesco-fava/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.portfolio-francesco-fava.vercel.app" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/francesco-fava/" alt="Linkedin"  target="_blank><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.portfolio-francesco-fava.vercel.app" alt="portfolio" target="_blank><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>&nbsp;
 </p>
 
 <!--
